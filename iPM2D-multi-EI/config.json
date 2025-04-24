@@ -82,7 +82,7 @@
         "ng_max": 3,
         "ns_max": 9,
 
-        "is_open_recombination": false,
+        "is_open_recombination": true,
         "recb": {
             "recb_time_step_num": 50,
             "recb_reaction_num": 3,
